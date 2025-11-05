@@ -4,11 +4,66 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f03c577b-94c9-497b-9863-c55afe71728b" name="Changes" comment="aa" />
+    <list default="true" id="f03c577b-94c9-497b-9863-c55afe71728b" name="Changes" comment="aa">
+      <change afterPath="$PROJECT_DIR$/.idea/Bentham.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/frontend/next.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/_ot8j5DfkndWBnL8Wwi0g/_buildManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/_ot8j5DfkndWBnL8Wwi0g/_ssgManifest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/117-032e20e470d8ca46.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/535-d8d20bbfc64c0060.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/app/_not-found/page-c8219ab21dbb5ed7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/app/layout-670cf3f6c1625f14.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/app/page-10671fb4ba8379c9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/fd9d1056-b88f8a4cc02eef8b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/framework-f66176bb897dc684.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/main-app-a537722245095089.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/main-d46ade44457baf31.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/pages/_app-72b849fbd24ac258.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/pages/_error-7ba65e1336b92748.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/polyfills-42372ed130431b0a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/chunks/webpack-c5ca25b85e5c5d52.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/css/240abab59560f369.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/media/028c0d39d2e8f589-s.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/_next/static/media/5b01f339abf2f1a5.p.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/assorted-clothing-display.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/black-jeans.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/business-outfit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/casual-outfit-white-shirt-black-jeans.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/casual-outfit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/index.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/navy-blazer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/office-outfit-white-shirt-navy-blazer.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/placeholder-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/placeholder-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/placeholder-user.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/placeholder.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/placeholder.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/semi-formal-outfit-navy-blazer-black-pants.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/semi-formal-outfit.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/virtual-fitting-result.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/static/white-shirt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Server/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Server/upload_test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Server/templates/upload_test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
     <envs>
@@ -63,22 +118,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.app.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
+    "Python.tses.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/gimgeonhui/PycharmProjects/Bentham/Server/static",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "ts.external.directory.path": "/Users/gimgeonhui/PycharmProjects/Bentham/Server/frontend/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server/static" />
+      <recent name="$PROJECT_DIR$/Server/templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Server" />
+      <recent name="$PROJECT_DIR$/Server/templates" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Bentham" />
@@ -123,6 +194,13 @@
       <workItem from="1759122758936" duration="1179000" />
       <workItem from="1759123961755" duration="2580000" />
       <workItem from="1759192526439" duration="851000" />
+      <workItem from="1759193383817" duration="9575000" />
+      <workItem from="1760184103240" duration="824000" />
+      <workItem from="1760326050208" duration="2477000" />
+      <workItem from="1761014776301" duration="24000" />
+      <workItem from="1761015805263" duration="12500000" />
+      <workItem from="1761807993166" duration="6684000" />
+      <workItem from="1762227662979" duration="7720000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <option name="closed" value="true" />
@@ -140,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759193143416</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="aa">
+      <option name="closed" value="true" />
+      <created>1759193407227</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759193407227</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +260,7 @@
     <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Bentham$app.coverage" NAME="app Coverage Results" MODIFIED="1759123039121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Server" />
+    <SUITE FILE_PATH="coverage/Bentham$app.coverage" NAME="app Coverage Results" MODIFIED="1762304084495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Server" />
+    <SUITE FILE_PATH="coverage/Bentham$tses.coverage" NAME="tses Coverage Results" MODIFIED="1760184158368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Server" />
   </component>
 </project>
