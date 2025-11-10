@@ -1,0 +1,56 @@
+<!-- npm run dev -->
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StyleAI - 패션 추천 앱</title>
+    <meta name="description" content="당신만의 스타일을 찾아보세요">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        background: '#ffffff',
+                        foreground: '#374151',
+                        card: '#fefce8',
+                        'card-foreground': '#374151',
+                        primary: '#d97706',
+                        'primary-foreground': '#ffffff',
+                        secondary: '#ec4899',
+                        'secondary-foreground': '#ffffff',
+                        muted: '#fefce8',
+                        'muted-foreground': '#374151',
+                        accent: '#ec4899',
+                        'accent-foreground': '#ffffff',
+                        destructive: '#be123c',
+                        'destructive-foreground': '#ffffff',
+                        border: '#e5e7eb',
+                        input: '#f1f5f9',
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="bg-background text-foreground font-sans">
+    <div id="root"></div>
+    <h3>Upload</h3>
+    <form id="f">
+      <input name="name" placeholder="name" />
+      <input name="category" placeholder="category" />
+      <input name="color" placeholder="color" />
+      <input type="file" name="file" />
+      <button>submit</button>
+    </form>
+
+    <h3>List</h3>
+    <ul id="list"></ul>
+
+    <script>
+      const API = "http://127.0.0.1:8000";
+      const f = document.getElementById("f");
+
+      

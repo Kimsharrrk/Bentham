@@ -1,5 +1,7 @@
 # 데이터베이스 모델 정의
+#modles.py
 
+from datetime import datetime, timezone
 
 from flask_sqlalchemy import SQLAlchemy
 from datetime import datetime
@@ -14,6 +16,8 @@ class User(db.Model):
     email = db.Column(db.String(120), unique=True, nullable=False) 
     created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc)) 
     clothes = db.relationship('Clothing', backref='owner', lazy=True)
+    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc))
+
 
 # 옷
 class Clothing(db.Model):
@@ -31,4 +35,19 @@ class Character(db.Model):
     body_type = db.Column(db.String(50))
     height = db.Column(db.Integer)
     image_path = db.Column(db.String(200))
+    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc))
+
+#건희 AI를 위한 DB. 아직 그냥 막 적어놓은거.
+
+class BodyKeypoints(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    image_path = db.Column(db.String(200))  # 분석된 이미지 경로
+    keypoints = db.Column(db.Text)  # JSON형태 좌표
+    created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc))
+
+class Recommendation(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    user_id = db.Column(db.Integer, db.ForeignKey('user.id'), nullable=False)
+    recommend_json = db.Column(db.Text)  # 추천 결과(모델리스트, 이유 등 JSON)
     created_at = db.Column(db.DateTime, default=lambda: datetime.now(timezone.utc))
