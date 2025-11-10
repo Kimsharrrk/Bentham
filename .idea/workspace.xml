@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03c577b-94c9-497b-9863-c55afe71728b" name="Changes" comment="fear: 백엔드, 프론트 엔드 연결&#10;&#10;목적이 모호해서 수정했음">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
         <entry key="$PROJECT_DIR$" value="server" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Server" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Server/frontend" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -159,7 +157,7 @@
       <workItem from="1761807993166" duration="6684000" />
       <workItem from="1762227662979" duration="12647000" />
       <workItem from="1762597912773" duration="3274000" />
-      <workItem from="1762751166827" duration="3982000" />
+      <workItem from="1762751166827" duration="4339000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <option name="closed" value="true" />
@@ -193,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762306384799</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fear: 백엔드, 프론트 엔드 연결&#10;&#10;목적이 모호해서 수정했음">
+      <option name="closed" value="true" />
+      <created>1762757274185</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762757274185</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
